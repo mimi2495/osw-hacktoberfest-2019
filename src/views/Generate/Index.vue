@@ -3,7 +3,6 @@
     <header class="text-center mb-5">
       <h2> Generate JSON </h2>
       <p class="lead text-muted">Fill the form in to generate your JSON. Ready to copy & paste!</p>
-      <ShareTwitterBtn/>
     </header>
 
     <form @submit.prevent="generateJson">
@@ -55,6 +54,7 @@
     <div class="result bg-light p-3 mb-2 rounded">
       <pre v-if="showCopyModel" class="mb-0" >{{copyModel}}</pre>
     </div>
+    <ShareTwitterBtn/>
   </div>
 </template>
 
