@@ -494,6 +494,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ivanrguez",
+      "name": "Ivan Rodriguez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24304351?v=4",
+      "profile": "https://es.linkedin.com/in/ivan-rodriguez-pulido",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
