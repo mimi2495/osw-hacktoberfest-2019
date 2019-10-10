@@ -1,3 +1,10 @@
+# 🔥 See : https://github.com/OSWeekends/osw-hacktoberfest-2019/issues/230
+===
+
+READ ONLY
+
+=== 
+
 # 🔥 OSW Hacktoberfest 2019 🎃
 
 [![Build Status](https://action-badges.now.sh/OSWeekends/osw-hacktoberfest-2019?action=Node%20CI)](https://github.com/OSWeekends/osw-hacktoberfest-2019/actions)
